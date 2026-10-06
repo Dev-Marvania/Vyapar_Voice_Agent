@@ -15,11 +15,7 @@
 > *An autonomous voice-intelligence layer that calls 100+ suppliers concurrently, negotiates within strict mathematical ZOPA boundaries, and synthesizes ranked options with cryptographic audio proof for 1-click executive sign-off.*
 
 <br/>
-
-[🚀 **Live Demo Application**](https://ais-dev-4sccfdgu2654naa64pir5r-489100929748.asia-southeast1.run.app) • [📹 **Watch 3-Min Video Pitch**](#) • [📑 **View Pitch Deck & PRD**](#) • [🔬 **Interactive Sourcing Matrix**](#)
-
 ---
-
 </div>
 
 <br/>
